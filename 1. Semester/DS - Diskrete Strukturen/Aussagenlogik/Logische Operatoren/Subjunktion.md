@@ -1,5 +1,6 @@
 ---
 tags:
+  - 1-Semester
   - DS-Diskrete-Strukturen
   - Aussagenlogik
   - Logische-Operatoren
@@ -28,5 +29,17 @@ $$\lnot (A \rightarrow B) \Leftrightarrow A \land \lnot B$$
 # Subjunktion anders herum
 $A \leftarrow B$:
 - sprachliche Beschreibung: 
-	- Nur wenn ... dann ...
+	- Nur wenn ... dann ... (aber vielleicht auch nicht)
 	- Vorausgesetzt ... dann ...
+
+
+# Modellierung
+## Schlüsselwörter
+$A \rightarrow B$ 
+- auch
+- wenn, dann
+- impliziert
+
+$A \leftarrow B$ 
+- nur wenn, dann
+- vorausgesetzt
