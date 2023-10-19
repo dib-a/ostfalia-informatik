@@ -82,5 +82,5 @@ $$\begin{align}
 
 ## Umwandlung von Oktal in Hexadezimal
 
-1. [Umwandlung von Oktal in Binär](Oktalsystem.md#umwandlung-von-oktal-in-binar)
-2. [Umwandlung von Binär in Hexadezimal](./Binärsystem(Dualsystem).md#umrechnung-von-binar-in-hexadezimal) 
+1. [Umwandlung von Oktal in Binär](Oktalsystem.md#umwandlungvonoktalinbinar)
+2. [Umwandlung von Binär in Hexadezimal](./Binärsystem(Dualsystem).md#umrechnungvonbinarinhexadezimal) 
