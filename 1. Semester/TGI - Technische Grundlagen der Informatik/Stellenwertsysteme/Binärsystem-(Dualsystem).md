@@ -1,5 +1,6 @@
 ---
 tags:
+  - 1-Semester
   - TGI-Technische-Grundlagen-der-Informatik
   - Stellenwertsysteme
 share: "true"
@@ -68,7 +69,7 @@ $$\begin{align}
 
 ## Umrechnung von Binär in Hexadezimal
 
-> [!NOTE]
+> [!NOTE] Hinweis
 > Da 2^4 = 16, können alle 4 Bits (1 Nibble) in eine Hexadezimalziffer übersetzt werden.
 
 ### Anleitung
@@ -92,7 +93,7 @@ $$\begin{align*}
 
 ## Umrechnung von Binär in Oktal
 
-> [!NOTE]
+> [!NOTE] Hinweis
 > Da 2^3 = 8, können alle 3 Bits in eine Oktalziffer umgewandelt werden.
 
 ### Anleitung
@@ -249,7 +250,7 @@ $$\begin{align*}
 |    =     |     |  0  |  0  |  1  |  1  |
 
 
-> [!WARNING]
+> [!WARNING] Überlauf
 > Der Überlauf muss nochmal dazu addiert werden
 
 |          |     |  0  |  0  |  1  |  1  |
@@ -310,7 +311,7 @@ $$\begin{align*}
 |          |     |     |     |     |     |
 |    =     |     |  0  |  1  |  0  |  0  |
 
-> [!NOTE]
+> [!NOTE] Überlauf
 > Der Überlauf kann ignoriert werden
 
 $$\begin{align*}
