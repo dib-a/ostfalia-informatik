@@ -1,5 +1,6 @@
 ---
 tags:
+  - 1-Semester
   - DS-Diskrete-Strukturen
   - Aussagenlogik
   - Logische-Operatoren
