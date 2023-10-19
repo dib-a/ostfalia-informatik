@@ -1,5 +1,6 @@
 ---
 tags:
+  - 1-Semester
   - TGI-Technische-Grundlagen-der-Informatik
   - Stellenwertsysteme
 share: "true"
@@ -37,7 +38,7 @@ Beispiel mit der Zahl: $3742_{8}$
 
 ## Umwandlung von Oktal in Binär
 
-> [!NOTE]
+> [!NOTE] Hinweis
 > Da 2^3 = 8, kann jede Oktalziffer in 3 binäre Ziffern umgewandelt werden.
 
 ### Beispiel

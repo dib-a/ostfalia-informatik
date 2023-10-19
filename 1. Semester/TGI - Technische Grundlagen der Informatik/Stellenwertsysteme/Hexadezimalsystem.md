@@ -1,5 +1,6 @@
 ---
 tags:
+  - 1-Semester
   - TGI-Technische-Grundlagen-der-Informatik
   - Stellenwertsysteme
 share: "true"
@@ -37,7 +38,7 @@ Beispiel mit der Zahl: $19A8_{16}$
 
 ## Umwandlung von Hexadezimal in Binär
 
-> [!NOTE]
+> [!NOTE] Hinweis
 > Um eine Hexadezimal Zahl in eine binäre Zahl umzurechnen, kann man verwenden, dass 2^4 = 16 ist.
 > D.h mann kann jede Ziffer aus dem Hexadezimalsystem in 4 Bits (1 Nibble) aus dem Binärsystem übersetzen
 

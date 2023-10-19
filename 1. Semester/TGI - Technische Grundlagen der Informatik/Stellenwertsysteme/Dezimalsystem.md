@@ -1,5 +1,6 @@
 ---
 tags:
+  - 1-Semester
   - TGI-Technische-Grundlagen-der-Informatik
   - Stellenwertsysteme
 share: "true"
