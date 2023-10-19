@@ -13,6 +13,9 @@ Diese Notizen stehen jedem offen, der sie nützlich findet. Beachte jedoch, dass
 
 ### Obsidian
 **Ich erstelle und verwalte diese Notizen mit Obsidian**, einer Open-Source-Software für Wissensmanagement und Notizen. Obsidian ermöglicht eine strukturierte und vernetzte Darstellung von Informationen, was besonders beim Lernen und Nachschlagen von Inhalten hilfreich ist. Falls du selbst Obsidian nutzt oder es ausprobieren möchtest, kann ich es nur empfehlen.
+
+#### Screenshot
+![screenshot-obsidian.png](./images/screenshot-obsidian.png#)
 ## Beiträge und Verbesserungen
 
 Ich stehe offenen für Verbesserungsvorschläge und Ergänzungen von anderen Studierenden. Wenn du Fehler findest oder zusätzliche Informationen hinzufügen möchtest, erstelle einfach einen Pull Request. Gemeinsam können wir dieses Repository zu einer wertvollen Ressource für Studierende machen.
