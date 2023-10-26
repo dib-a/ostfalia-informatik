@@ -12,6 +12,12 @@ $A \Rightarrow B$ :
 - A ist die hinreichende Bedingung bzw. hinrechende Voraussetzung für B
 - B ist die notwendige Bedingung bzw. notwendige Voraussetzung für A
 
+> [!Tip] hinreichende Bedingung
+> Eine Bedingung ist hinreichend, wenn das Ereignis auftreten kann, wenn die Bedingung erfüllt ist, **aber auch sonst**
+
+> [!Tip] notwendige Bedingung
+> Eine Bedingung ist notwendig, wenn das Ereignis dann und nur dann auftreten kann, wenn die Bedingung erfüllt ist
+
 $A \rightarrow B \Leftrightarrow B \leftarrow A$ :
 - $A \rightarrow B$ : Wenn A, dann sicher B (aber eventuell auch sonst) -> A ist hinreichend für B
 - $B \leftarrow A$ : Nur wenn B, dann A (aber eventuell auch nicht) -> B ist notwendig für A

@@ -7,12 +7,13 @@ tags:
 share: "true"
 ---
 # Info
-- ist genau dann wahr, wenn A und B verschiedene Wahrheitswerte haben
 - sprachliche Beschreibung: "entweder...oder..."
-- in der Informatik meist als xor bezeichnet
-- weitere Bezeichnung: ausschließende [Disjunktion](./Disjunktion.md#)
+- ist genau dann wahr, wenn A und B verschiedene Wahrheitswerte haben
+- weitere Bezeichnung: 
+	- ausschließende [Disjunktion](./Disjunktion.md#)
+	- in der Informatik meist als XOR bezeichnet
 
-### Wahrheitstabelle
+# Wahrheitstabelle
 |     $A$      |     $B$      | $A \not\leftrightarrow B$  |
 |:------------:|:------------:|:------------:|
 | $\mathbb{0}$ | $\mathbb{0}$ | $\mathbb{0}$ |
@@ -20,6 +21,6 @@ share: "true"
 | $\mathbb{1}$ | $\mathbb{0}$ | $\mathbb{1}$ |
 | $\mathbb{1}$ | $\mathbb{1}$ | $\mathbb{0}$ |
 
-### Negation der Alternation
+# [Negation](./Negation.md#) der Alternation
 - der Operator wird negiert
 $$\lnot (A \not\leftrightarrow B) \Leftrightarrow A \leftrightarrow B$$

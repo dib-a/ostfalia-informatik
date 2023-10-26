@@ -7,8 +7,8 @@ tags:
 share: "true"
 ---
 # Info
-- ist nur dann falsch, wenn A wahr und B falsch ist
 - sprachliche Beschreibung: "Wenn..., dann... (aber vielleicht auch sonst)"
+- ist nur dann falsch, wenn A wahr und B falsch ist
 - kann man auch schreiben als:
 	- $(A \rightarrow B) \Leftrightarrow \lnot A \lor B$
 	- $(A \rightarrow B) \Leftrightarrow \lnot B \rightarrow \lnot A$
@@ -21,10 +21,12 @@ share: "true"
 | $\mathbb{1}$ | $\mathbb{0}$ | $\mathbb{0}$ |
 | $\mathbb{1}$ | $\mathbb{1}$ | $\mathbb{1}$ |
 
-# Negation der Subjunktion
+# [Negation](./Negation.md#) der Subjunktion
 - die zweite Aussage wird negiert
 - die Verknüpfung wird zu einer Konjunktion
-$$\lnot (A \rightarrow B) \Leftrightarrow A \land \lnot B$$
+$$\begin{align}
+\lnot (A \rightarrow B) &\Leftrightarrow A \land \lnot B\\
+\end{align}$$
 
 # Subjunktion anders herum
 $A \leftarrow B$:

@@ -8,7 +8,7 @@ share: "true"
 ---
 # Info
 
-[Aussagen](../Aussagen-und-Aussagenformen.md#aussagen) sind meist zusammengesetzt 
+[Aussagen](../Aussagen-und-Aussageformen.md#aussagen) sind meist zusammengesetzt 
 - d.h sie lassen sich zu Teilaussagen zerlegen
 - Zusammensetzung erfolgt durch logische Operatoren
 

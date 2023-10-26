@@ -7,6 +7,7 @@ tags:
 share: "true"
 ---
 # Info
+- gesprochen "nicht"
 - auch Verneinung genannt
 - ein unärer Operator
 	- wirkt auf nur einen Operanden
