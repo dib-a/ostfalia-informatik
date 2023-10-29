@@ -31,12 +31,16 @@ Elemente von Mengen müssen nicht atomar sein
 	- [Mengen](Mengen.md#)
 
 **Für die folgenden Beispiele gilt:** 
+
 ![mengen.png](./images/mengen.png#)
+
 blau: Menge A
 gelb: Menge B
 grün: Verknüpfung
 # Teilmenge
-Eine Menge A ist eine Teilmenge der Menge B, wenn alle Elemente aus A auch in B enthalten sind $$A \subseteq B$$![teilmenge.png](./images/teilmenge.png#)
+Eine Menge A ist eine Teilmenge der Menge B, wenn alle Elemente aus A auch in B enthalten sind $$A \subseteq B$$
+
+![teilmenge.png](./images/teilmenge.png#)
 
 In dem oberen Beispiel ist $\{ 4,5\}$ sowohl ein [Element](Mengen.md#element) als auch eine Teilmenge
 
@@ -79,13 +83,17 @@ $$\begin{align*}
 $$\begin{align*}
 	A \cup B = \{ x:x \in \mathbb{U} \mid x \in A \lor x \in B \}
 \end{align*}$$
+
 ![vereinigung.png](./images/vereinigung.png#)
+
 ## Schnitt
 
 $$\begin{align*}
 	A \cap B = \{ x:x \in \mathbb{U} \mid x \in A \land x \in B \}
 \end{align*}$$
+
 ![schnittmenge.png](./images/schnittmenge.png#)
+
 Wenn der Schnitt zweier Mengen leer ist nennt man die Mengen disjunkt
 
 ## Differenz
@@ -93,13 +101,17 @@ Wenn der Schnitt zweier Mengen leer ist nennt man die Mengen disjunkt
 $$\begin{align*}
 	A \setminus B = \{ x:x \in \mathbb{U} \mid x \in A \land x \not\in B \}
 \end{align*}$$
+
 ![differenz.png](./images/differenz.png#)
+
 ## Komplement
 
 $$\begin{align*}
 	\overline A = \{ x:x \in \mathbb{U} \mid x \not\in A \}
 \end{align*}$$
+
 ![komplement.png](./images/komplement.png#)
+
 # Algebraische Eigenschaften
 
 | Bezeichnung                | Beispiel für $\cup$                                  | Beispiel für $\cap$                                  |
