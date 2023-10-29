@@ -7,4 +7,4 @@ share: "true"
 ---
 # Beachten
 - System.out.print..., return, if sorgen für die gleiche Speicher Wiedergabe ohne Veränderungen 
-- Funktionsaufrufe reservieren einen Speicherplatz für den return wert ![Pasted image 20231023234532.png](../../images/Pasted%20image%2020231023234532.png#)
+- Funktionsaufrufe reservieren einen Speicherplatz für den return wert ![java-memory-tracer.png](./images/java-memory-tracer.png#)
