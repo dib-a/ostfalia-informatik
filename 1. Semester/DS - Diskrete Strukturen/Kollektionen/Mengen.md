@@ -118,6 +118,7 @@ $\overline A = \{ x:x \in \mathbb{U} \mid x \not\in A \}$
 # Potenzmenge
 
 Die Menge, die alle [Teilmengen](Mengen.md.md#teilmenge) einer Menge enthält
+
 $$\begin{align*}
 	M &= \{ 1,2,3 \}\\
 	P(M) &= \{ \{ \}, \{1\}, \{2\}, \{3\}, \{ 1,2 \}, \{ 1,3 \}, \{ 2,3\}, \{ 1,2,3 \} \}\\
@@ -132,6 +133,7 @@ Die Menge aller geordneten Paare zweier Mengen A und B
 
 Man benötigt 2 Mengen (es kann auch 2 mal die gleiche Menge sein)
 Dann bildet an alle Paare so, dass die erste Komponente im Paar aus der ersten Menge und die zweite Komponente aus der zweiten Menge ist.
+
 $$\begin{align*}
 	A \times B = \{[a,b] : a \in A, b \in B \}
 \end{align*}$$
