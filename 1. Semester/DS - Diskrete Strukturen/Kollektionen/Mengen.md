@@ -32,15 +32,15 @@ Elemente von Mengen müssen nicht atomar sein
 
 **Für die folgenden Beispiele gilt:** 
 
-![mengen.png](./images/mengen.png#)
+![250](./images/mengen.png#)
 
-blau: Menge A
-gelb: Menge B
+blau: Menge A;
+gelb: Menge B;
 grün: Verknüpfung
 # Teilmenge
-Eine Menge A ist eine Teilmenge der Menge B, wenn alle Elemente aus A auch in B enthalten sind $$A \subseteq B$$
+Eine Menge A ist eine Teilmenge der Menge B, wenn alle Elemente aus A auch in B enthalten sind $A \subseteq B$
 
-![teilmenge.png](./images/teilmenge.png#)
+![250](./images/teilmenge.png#)
 
 In dem oberen Beispiel ist $\{ 4,5\}$ sowohl ein [Element](Mengen.md#element) als auch eine Teilmenge
 
@@ -69,7 +69,7 @@ So kann man Mengen konstruieren (angeben)
 	- ein gültiger Weg, ist ein Weg, der zum Ende führt
 	- immer nur in Pfeilrichtung durchlaufen (Einbahnstraße)
 
-==Diagram einfügen ACHTUNG open source!!!== --- fragen ob das aus dem Skript übernommen werden darf
+==Diagram einfügen ACHTUNG open source???== --- fragen ob das aus dem Skript übernommen werden darf
 
 # Mächtigkeit
 die Anzahl der Elemente einer Menge wird Mächtigkeit ($|\{...\} |$) genannt
@@ -80,37 +80,27 @@ $$\begin{align*}
 
 ## Vereinigung
 
-$$\begin{align*}
-	A \cup B = \{ x:x \in \mathbb{U} \mid x \in A \lor x \in B \}
-\end{align*}$$
-
-![vereinigung.png](./images/vereinigung.png#)
-
+$A \cup B = \{ x:x \in \mathbb{U} \mid x \in A \lor x \in B \}$
+![250](./images/vereinigung.png#)
 ## Schnitt
 
-$$\begin{align*}
-	A \cap B = \{ x:x \in \mathbb{U} \mid x \in A \land x \in B \}
-\end{align*}$$
+$A \cap B = \{ x:x \in \mathbb{U} \mid x \in A \land x \in B \}$
 
-![schnittmenge.png](./images/schnittmenge.png#)
+![250](./images/schnittmenge.png#)
 
 Wenn der Schnitt zweier Mengen leer ist nennt man die Mengen disjunkt
 
 ## Differenz
 
-$$\begin{align*}
-	A \setminus B = \{ x:x \in \mathbb{U} \mid x \in A \land x \not\in B \}
-\end{align*}$$
+$A \setminus B = \{ x:x \in \mathbb{U} \mid x \in A \land x \not\in B \}$
 
-![differenz.png](./images/differenz.png#)
+![250](./images/differenz.png#)
 
 ## Komplement
 
-$$\begin{align*}
-	\overline A = \{ x:x \in \mathbb{U} \mid x \not\in A \}
-\end{align*}$$
+$\overline A = \{ x:x \in \mathbb{U} \mid x \not\in A \}$
 
-![komplement.png](./images/komplement.png#)
+![250](./images/komplement.png#)
 
 # Algebraische Eigenschaften
 
