@@ -81,6 +81,7 @@ $$\begin{align*}
 ## Vereinigung
 
 $A \cup B = \{ x:x \in \mathbb{U} \mid x \in A \lor x \in B \}$
+
 ![250](./images/vereinigung.png#)
 ## Schnitt
 
