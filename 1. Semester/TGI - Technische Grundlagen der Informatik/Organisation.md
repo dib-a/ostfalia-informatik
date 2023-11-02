@@ -5,7 +5,6 @@ tags:
   - Organisation
 share: "true"
 ---
-
 # Prüfung
 Dauer: 90 min
 Hilfsmittel:
