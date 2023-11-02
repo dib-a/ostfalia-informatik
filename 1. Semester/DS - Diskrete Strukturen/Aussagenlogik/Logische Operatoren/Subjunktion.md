@@ -43,5 +43,5 @@ $A \rightarrow B$
 - impliziert
 
 $A \leftarrow B$ 
-- nur wenn, dann
+- **nur** wenn, dann
 - vorausgesetzt
