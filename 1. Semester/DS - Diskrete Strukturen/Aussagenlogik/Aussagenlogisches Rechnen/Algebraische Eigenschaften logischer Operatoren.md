@@ -22,6 +22,7 @@ share: "true"
 
 # Transitiv
 Ein binärer logischer Operator heißt transitiv, wenn gilt:
+
 $$
 A \bullet B \land B \bullet C \Rightarrow A \bullet C
 $$
