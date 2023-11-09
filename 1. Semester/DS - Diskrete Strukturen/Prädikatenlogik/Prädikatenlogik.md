@@ -53,7 +53,7 @@ $$\begin{align*}
 **Schritt für Schritt**
 1. Den Quantor umdrehen: aus $\forall$ wird $\exists$ und umgedreht
 2. Das Prädikat negieren
-3. Zur Überprüfung: versprachlichen 
+3. Zur Überprüfung: Versprachlichen 
 
 > [!NOTE] Beispiel 
 >Aussage: Jeder versteht Logik: $\forall (m \in \text{Menschen} \mid m\  \text{versteht Logik})$ 
